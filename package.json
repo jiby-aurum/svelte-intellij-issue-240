@@ -6,6 +6,7 @@
     "postinstall": "tsc --skipLibCheck"
   },
   "dependencies": {
+    "svelte": "^3.40.2",
     "typescript": "^4.3.5"
   }
 }
